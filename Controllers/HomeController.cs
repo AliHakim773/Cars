@@ -1,8 +1,8 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using CSC400.Models;
+using Cars.Models;
 
-namespace CSC400.Controllers;
+namespace Cars.Controllers;
 
 public class HomeController : Controller
 {

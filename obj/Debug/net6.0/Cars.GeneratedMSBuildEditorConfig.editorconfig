@@ -6,43 +6,43 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = CSC400
-build_property.RootNamespace = CSC400
-build_property.ProjectDir = C:\Users\hakim\VSCode\Fall\Cars\
+build_property.RootNamespace = Cars
+build_property.RootNamespace = Cars
+build_property.ProjectDir = c:\Users\hakim\VSCode\Fall\Cars\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\hakim\VSCode\Fall\Cars
+build_property.MSBuildProjectDirectory = c:\Users\hakim\VSCode\Fall\Cars
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/hakim/VSCode/Fall/Cars/Views/Cars/Index.cshtml]
+[c:/Users/hakim/VSCode/Fall/Cars/Views/Cars/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fyc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hakim/VSCode/Fall/Cars/Views/Home/Index.cshtml]
+[c:/Users/hakim/VSCode/Fall/Cars/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hakim/VSCode/Fall/Cars/Views/Home/Privacy.cshtml]
+[c:/Users/hakim/VSCode/Fall/Cars/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hakim/VSCode/Fall/Cars/Views/Shared/Error.cshtml]
+[c:/Users/hakim/VSCode/Fall/Cars/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hakim/VSCode/Fall/Cars/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/hakim/VSCode/Fall/Cars/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hakim/VSCode/Fall/Cars/Views/_ViewImports.cshtml]
+[c:/Users/hakim/VSCode/Fall/Cars/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hakim/VSCode/Fall/Cars/Views/_ViewStart.cshtml]
+[c:/Users/hakim/VSCode/Fall/Cars/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hakim/VSCode/Fall/Cars/Views/Shared/_Layout.cshtml]
+[c:/Users/hakim/VSCode/Fall/Cars/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-6arjflh17k
+build_metadata.AdditionalFiles.CssScope = b-x1iis75ih6

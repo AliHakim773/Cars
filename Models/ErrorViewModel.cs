@@ -1,4 +1,4 @@
-namespace CSC400.Models;
+namespace Cars.Models;
 
 public class ErrorViewModel
 {
